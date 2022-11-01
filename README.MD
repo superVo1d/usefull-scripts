@@ -11,7 +11,6 @@ python3 json_to_csv.py
 ```
 #
 Сохраняет фотографии из поля "logo" файла <code>input.csv</code> в директории со слагом названия из поля "name":
-<code>config.py</code>
 ```
 python3 parse_folders.py
 ```
